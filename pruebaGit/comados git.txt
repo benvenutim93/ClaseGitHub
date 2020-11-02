@@ -12,3 +12,7 @@ git add -> nos agrega los archivos
 origin: https://github.com/benvenutim93/ClaseGitHub.git
 
 git commit -m "Comentario entre comillas"
+
+git push -> envia la informacion al repositorio externo
+
+git push origin master
