@@ -1,0 +1,14 @@
+cd -> change directory 
+cd .. -> vamos una carpeta hacia atras
+
+cd nombreCarpeta -> viaja hacia la carpeta
+
+ls -> nos muestra el contenido
+
+git status -> nos muestra las modificaciones
+
+git add -> nos agrega los archivos
+
+origin: https://github.com/benvenutim93/ClaseGitHub.git
+
+git commit -m "Comentario entre comillas"
