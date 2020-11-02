@@ -11,6 +11,8 @@ int main()
 
 	printf("Probando el uso de ramas desde GitBash\n");
 
+	printf ("Hola Nico");
+
 
 
 
