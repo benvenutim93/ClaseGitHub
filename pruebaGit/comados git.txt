@@ -15,4 +15,6 @@ git commit -m "Comentario entre comillas"
 
 git push -> envia la informacion al repositorio externo
 
-git push origin master
+git push origin(url) master(rama principal)
+
+git pull origin master -> se obtiene el repositorio actualizado desde github
